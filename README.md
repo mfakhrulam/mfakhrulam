@@ -18,6 +18,15 @@
   Hey there👋
 </h1>
 </div>
+![image](https://user-images.githubusercontent.com/80448871/182302353-2ca37c1d-6b5a-41d1-b705-9bc1c083f5a5.png)
+
+&nbsp;
+
+## 📊 &nbsp;Stats
+
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfakhrulam&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
 <!--
