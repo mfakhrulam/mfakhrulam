@@ -18,7 +18,6 @@
   Hey there👋
 </h1>
 </div>
-![image](https://user-images.githubusercontent.com/80448871/182302353-2ca37c1d-6b5a-41d1-b705-9bc1c083f5a5.png)
 
 &nbsp;
 
