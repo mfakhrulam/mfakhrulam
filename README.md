@@ -14,22 +14,27 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=mfakhrulam&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there👋
-</h1>
 </div>
 
 &nbsp;
 
 ## 📊 &nbsp;Stats
 
+<!-- 
 ![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfakhrulam&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&theme=noctis-minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&show_icons=true&theme=noctis_minimus)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfakhrulam&theme=noctis-minimus)](https://git.io/streak-stats)  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 <!--
----
 
 **mfakhrulam/mfakhrulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -67,7 +72,6 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mfakhrulam&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
