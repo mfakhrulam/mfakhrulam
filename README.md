@@ -34,15 +34,6 @@ KOMENNN
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&layout=compact&theme=noctis_minimus)
 ---
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfakhrulam&show_icons=true&theme=noctis_minimus" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&theme=noctis_minimus" />
-</a> <br> <br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfakhrulam&theme=noctis-minimus) 
-
 <!--
 
 **mfakhrulam/mfakhrulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
