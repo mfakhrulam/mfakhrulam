@@ -21,19 +21,27 @@
 ## 📊 &nbsp;Stats
 
 <!-- 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+KOMENNN
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&theme=noctis-minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&show_icons=true&theme=noctis_minimus)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&show_icons=true&theme=noctis_minimus)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfakhrulam&theme=noctis-minimus)](https://git.io/streak-stats)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfakhrulam&theme=noctis-minimus) 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&layout=compact&theme=noctis_minimus)
 ---
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfakhrulam&show_icons=true&theme=noctis_minimus" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mfakhrulam&theme=noctis-minimus" />
+</a> <br> <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&theme=noctis_minimus)
 <!--
 
 **mfakhrulam/mfakhrulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
