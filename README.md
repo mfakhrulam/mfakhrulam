@@ -1,5 +1,8 @@
 ### Hi there, I'm Muhammad Fakhrul Amin 👋
 
+- 🌱 I’m currently learning Machine Learning and Front End
+- 😄 Pronouns: He/him
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
