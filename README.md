@@ -1,4 +1,8 @@
-### Hi there, I'm Muhammad Fakhrul Amin 👋
+<div align="center">
+  
+# Hi there, I'm Muhammad Fakhrul Amin 👋
+
+</div>
 
 - 🌱 I’m currently learning Machine Learning and Front End
 - 😄 Pronouns: He/him
@@ -26,7 +30,7 @@
 </div>
 
 &nbsp;
-<div id="header" align="center">
+<div align="center">
 
 ## 🏗 Current Project
 
