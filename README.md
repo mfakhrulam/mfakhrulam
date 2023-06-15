@@ -26,6 +26,12 @@
 </div>
 
 &nbsp;
+<div id="header" align="center">
+
+## 🏗 Current Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renatic-C23-PR504&repo=machine-learning&show_owner=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)](https://github.com/Renatic-C23-PR504/machine-learning)
+</br>
 
 ## 📊 &nbsp;Stats
 
@@ -36,11 +42,14 @@ KOMENNN
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&theme=noctis-minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&show_icons=true&theme=noctis_minimus)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfakhrulam&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfakhrulam&theme=noctis-minimus)  -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&layout=compact&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfakhrulam&layout=compact&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)
+
+
+</div>
 
 
 <!--
